@@ -91,7 +91,7 @@ Annotation idea...
 - Describes his days as "a blur...not sure if it's from the sleeping tablets or how [he's] learned to *'switch off'*"*
 	- [x] What does switch off mean? How? Suffers from depression, fatigue, and malaise
 	- [x] Sleeping Pills? prescribed by Dr Dekker b/c he thought he'd "sleep through to a whole new day"
-- [ ] Dekker gave him a pill to prevent his loops with a skull and crossbones on it**
+- [ ] Dekker gave him a pill (*Temazepam*) to prevent his loops with a skull and crossbones on it**
     - Told him to take the pill, thinking it was a placebo
     - [ ] Had another "loop day" the day after taking the pill
         - Maybe ineffective placebo
@@ -132,6 +132,22 @@ Annotation idea...
 - Works at an art gallery called Providence
     - Was working there on Valentine's Nighth until 11pm
     - Bryce was there with her as well
+- [ ] Paintings *with people in them* move for her, look at her disapprovingly**
+    - [x] In what way are they *looking disapprvingly*? Why? They think Jasmine "doesn't appreciate art because she's too young".
+    - [ ] Some paintings Jasmine "can't stop", like a portrait Jasmine's painting of Dorian Gray*
+        - Painting of Dorian is split into thirds of a boy, his father, and grandfather to capture the aging process
+        - Jasmine describes it as "hideous"
+        - It started talking to Jasmine
+            - Tells Jasmine she's "ugly, that [she] has no talent, that nothing will become of [her]"
+- Asked about Dekker, Jasmine answered that "when [she] told [him] about [her] problem he said [she] should set fire to it".
+    - He wasn't specific as to what she should set fire to or what her problem was
+    - I think the "problem" is the *painting of Dorian*, but she interpreted it as **Providence itself**
+    - After *setting fire to Porvidence* police arrested her, although her boss (**Petra**) didn't press charges. Why didn't Petra press charges?
+    	- She doesn't know why Petra didn't press charges
+    	- Jasmine said that Petra was losing money on the business, wanted to collect insurance money from Jasmine burning it down, maybe? Jasmine denies this, but Petra could have used it as an excusative event regardless
+- Ripped up the painting of Dorian prior to her burning down Providence
+    - Says the painting of Dorian haunts her dreams, that "she can see him...hear him screaming". 
+    - Dr Dekker prescribed her **Temazepam** to surpress her dreams and help her sleep
 
 ## Murder Theories
 ### Bryce
