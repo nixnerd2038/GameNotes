@@ -4,7 +4,45 @@ Annotation idea...
 ** = definitely follow this up 
 (I'll remove ** or * when done)
 ## Patient Notes
+### Lacey
+#### Session One
+- Neighbor was murdered (throat slit)
+- Different neighbor (Agnes) disappeared
+	- Thinks a door-to-door saleswoman selling double glazing killed her neighbors
+	- Agnes let the saleswoman in
+	- Lacey says the saleswoman selling double glazing door to door turned into "a Medusa[...]A woman with snakes for a face" 
+	- Dr Dekker didn't believe Lacey's story, or that Agnes was dead
+	- Ron (Agnes' husband) only seemed responsive to her murder when the police were there
+	- Lacey doesn't suspect Agnes' husband, but did describe him as a "weasley little man[...]who spends far too much time in his garden[...]digging and pruning".
+	- Digging, why? What for? Ron was supposedly digging the foundation for a new greenhouse
+	- Dr Dekker calls heer the Leech Lady because she "leeches thoughts from people's heads" and "can put them in there, too".
+	- On Valentine's night she was at a service at henley Church for single folk**
+	- Suggested she is unemployed vs. a double glazing saleswoman, she did not take kindly to this
+
+### Jasmine
+#### Session One
+- Works at an art gallery called Providence
+    - Was **working at Providence** on **Valentine's Night** until **11pm**
+    - Bryce was there with her as well
+- [ ] Paintings *with people in them* move for her, look at her disapprovingly**
+    - [x] In what way are they *looking disapprvingly*? Why? They think Jasmine "doesn't appreciate art because she's too young".
+    - [ ] Some paintings Jasmine "can't stop", like a portrait Jasmine's painting of Dorian Gray*
+        - Painting of Dorian is split into thirds of a boy, his father, and grandfather to capture the aging process
+        - Jasmine describes it as "hideous"
+        - It started talking to Jasmine
+            - Tells Jasmine she's "ugly, that [she] has no talent, that nothing will become of [her]"
+- Asked about Dekker, Jasmine answered that "when [she] told [him] about [her] problem he said [she] should set fire to it".
+    - He wasn't specific as to what she should set fire to or what her problem was
+    - I think the "problem" is the *painting of Dorian*, but she interpreted it as **Providence itself**
+    - After *setting fire to Porvidence* police arrested her, although her boss (**Petra**) didn't press charges. Why didn't Petra press charges?
+    	- She doesn't know why Petra didn't press charges
+    	- Jasmine said that Petra was losing money on the business, wanted to collect insurance money from Jasmine burning it down, maybe? Jasmine denies this, but Petra could have used it as an excusative event regardless
+- Ripped up the painting of Dorian prior to her burning down Providence
+    - Says the painting of Dorian haunts her dreams, that "she can see him...hear him screaming". 
+    - Dr Dekker prescribed her **Temazepam** to surpress her dreams and help her sleep
+
 ### Bryce
+#### Session One
 - Works as a **gravedigger**
 - Gets an **"Extra Hour"** where time freezes
 - Uses the extra hour to catch up on work or *play chess against himself* because it "strengthens and relaxes the mind, all at once". 
@@ -23,7 +61,35 @@ Annotation idea...
 - Says Dr Dekker was murdered, Dekker unraveled from *lack of control*
 - Knows no other info of Dekker's death
 
+#### Session Two
+- States he has been "getting a little out of control in [his extra] hour"**
+    - [ ] How has he been getting out of control? 
+- States he took a while to figure out that time was frozen because "he lives on [his] own".
+    - Lives alone, occassionally visits his father who lives alone in sheltered housing with dementia
+- Asks what I would do with an "extra hour, go to a Fairground"?
+    - [ ] Oddly specific line of questioning, why a Fairground? Supposedly "just an example"
+    - Initially said I'd use the extra hour to help people, he related a mundane story about helping a woman about to get her purse snatched
+    - Confided I may **spy** on people to see what his reponse would be
+        - He said he found a woman (Jessica) in his extra hour he found attractive, so he undressed her and took nude photos of her
+        - Claims it was Dr Dekker's fault he had this impulse
+    	    - Why? How?    
+	- Claims Dr Dekker has "changed"
+            - Why? How? Dr Dekker seemed easily distracted during sessions like he "didn't care about his patients anymore" and that "dr dekker had given up on the desire to cure [his] mind and for whatever reason wanted to make [him] more unstable".
+            - Dr Dekker's advice changed; he told Bryce to "use his imagination to make something up. To think something crazy and it would become real. To think of a way to get more time[...]and it did. But he pushed me. He made me think it".
+    - Confided I may **steal** from people to see what his reponse would be
+        - Bryce said he had stolen some milk from a corner store and "bigger things".
+        - Also stole petrol, electricals, etc. to prove to himself he can, "to prove [his] extra hour is actually real". 
+- Patient seems preoccupied, says he "sees a girl standing behind me, possibly a patient that died here, possibly a relative of [mine]". 
+- Spent his **Valentine's Day** at the **art gallery** (Providence) as hinted at by Jasmine
+- Carried Dr Dekker's casket, claims it wasn't heavy enough to have had a body in it
+    - Coffin wasn't empty, thinks there was a decoy in it, maybe a mannequin? 
+    - Claims Dr Dekker was either cremated or buried elsewhere because "someone or something didn't want him to be buried [in the ground]".
+- Claims to have seen strange things at the graveyard when asked if he's seen people come back from the dead, isn't sure if they'e real or if he just thinks they're real. 
+- Didn't stop seeing Dr Dekker out of a sense of hope
+- 
+
 ### Claire
+#### Session One
 - Diagnosed *violent paranoia*
 - Diagnosed as *delusional*, doesn't believe she is
 - What delusions?*
@@ -35,6 +101,10 @@ Annotation idea...
         - [ ] Why? Just for cheating?**
     - David is sick, she has trouble coping with caring for him
     - [ ] David's health is declining, he is becoming less responsive, almost comatose, an *"Enigmatic husk"*
+
+#### Session Two
+- It's the anniversary of her parents' death today
+- They died at the Lakehouse 
 
 ### Elin
 - Worried about work stress
@@ -114,40 +184,6 @@ Annotation idea...
     - [ ] Who are these people?
     - [ ] Why are they important?
 
-### Lacey
-- Neighbor was murdered (throat slit)
-- Different neighbor (Agnes) disappeared
-	- Thinks a door-to-door saleswoman selling double glazing killed her neighbors
-	- Agnes let the saleswoman in
-	- Lacey says the saleswoman selling double glazing door to door turned into "a Medusa[...]A woman with snakes for a face" 
-	- Dr Dekker didn't believe Lacey's story, or that Agnes was dead
-	- Ron (Agnes' husband) only seemed responsive to her murder when the police were there
-	- Lacey doesn't suspect Agnes' husband, but did describe him as a "weasley little man[...]who spends far too much time in his garden[...]digging and pruning".
-	- Digging, why? What for? Ron was supposedly digging the foundation for a new greenhouse
-	- Dr Dekker calls heer the Leech Lady because she "leeches thoughts from people's heads" and "can put them in there, too".
-	- On Valentine's night she was at a service at henley Church for single folk**
-	- Suggested she is unemployed vs. a double glazing saleswoman, she did not take kindly to this
-
-### Jasmine -- 
-- Works at an art gallery called Providence
-    - Was working there on Valentine's Nighth until 11pm
-    - Bryce was there with her as well
-- [ ] Paintings *with people in them* move for her, look at her disapprovingly**
-    - [x] In what way are they *looking disapprvingly*? Why? They think Jasmine "doesn't appreciate art because she's too young".
-    - [ ] Some paintings Jasmine "can't stop", like a portrait Jasmine's painting of Dorian Gray*
-        - Painting of Dorian is split into thirds of a boy, his father, and grandfather to capture the aging process
-        - Jasmine describes it as "hideous"
-        - It started talking to Jasmine
-            - Tells Jasmine she's "ugly, that [she] has no talent, that nothing will become of [her]"
-- Asked about Dekker, Jasmine answered that "when [she] told [him] about [her] problem he said [she] should set fire to it".
-    - He wasn't specific as to what she should set fire to or what her problem was
-    - I think the "problem" is the *painting of Dorian*, but she interpreted it as **Providence itself**
-    - After *setting fire to Porvidence* police arrested her, although her boss (**Petra**) didn't press charges. Why didn't Petra press charges?
-    	- She doesn't know why Petra didn't press charges
-    	- Jasmine said that Petra was losing money on the business, wanted to collect insurance money from Jasmine burning it down, maybe? Jasmine denies this, but Petra could have used it as an excusative event regardless
-- Ripped up the painting of Dorian prior to her burning down Providence
-    - Says the painting of Dorian haunts her dreams, that "she can see him...hear him screaming". 
-    - Dr Dekker prescribed her **Temazepam** to surpress her dreams and help her sleep
 
 ## Murder Theories
 ### Bryce
