@@ -63,7 +63,11 @@ Annotation idea...
 
 #### Session Two
 - States he has been "getting a little out of control in [his extra] hour"**
-    - [ ] How has he been getting out of control? 
+    - [x] How has he been getting out of control? 
+        - He said he found a woman (Jessica) in his extra hour he found attractive, so he undressed her and took nude photos of her
+        - Bryce said he had stolen some milk from a corner store and "bigger things".
+        - Also stole petrol, electricals, etc. to prove to himself he can, "to prove [his] extra hour is actually real". 
+        - Denies any murders
 - States he took a while to figure out that time was frozen because "he lives on [his] own".
     - Lives alone, occassionally visits his father who lives alone in sheltered housing with dementia
 - Asks what I would do with an "extra hour, go to a Fairground"?
@@ -86,7 +90,6 @@ Annotation idea...
     - Claims Dr Dekker was either cremated or buried elsewhere because "someone or something didn't want him to be buried [in the ground]".
 - Claims to have seen strange things at the graveyard when asked if he's seen people come back from the dead, isn't sure if they'e real or if he just thinks they're real. 
 - Didn't stop seeing Dr Dekker out of a sense of hope
-- 
 
 ### Claire
 #### Session One
@@ -126,7 +129,6 @@ Annotation idea...
 - David's "mental faculties are getting worse" and she wanted to ensure David was okay.
 - Does she love David? Even with the cheating? "Yes, I suppose I always will". Seems like a dishonest response if she stabbed him.
 - How did her and David meet? Young, he's a family-friend, part of her parent's (rich) circle
-- 
 
 ### Elin
 #### Session One
@@ -173,6 +175,7 @@ Annotation idea...
 - Had a session with Dr Dekker Valentine's Afternoon around 3pm
 - Said he seemed fine, like he was in a good mood, not like anything was bothering him
 - They talked about families, their Mum's
+- 
 
 
 ### Marianna
