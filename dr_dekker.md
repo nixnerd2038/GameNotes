@@ -5,7 +5,7 @@ Annotation idea...
 (I'll remove ** or * when done)
 ## Patient Notes
 ### Lacey
-#### Session One
+#### Session One (Starts in Act Two)
 - Neighbor was murdered (throat slit)
 - Different neighbor (Agnes) disappeared
 	- Thinks a door-to-door saleswoman selling double glazing killed her neighbors
@@ -20,7 +20,7 @@ Annotation idea...
 	- Suggested she is unemployed vs. a double glazing saleswoman, she did not take kindly to this
 
 ### Jasmine
-#### Session One
+#### Session One (Starts in Act Two)
 - Works at an art gallery called Providence
     - Was **working at Providence** on **Valentine's Night** until **11pm**
     - Bryce was there with her as well
