@@ -5,9 +5,8 @@ Annotation idea...
 (I'll remove ** or * when done)
 ## Patient Notes
 ### Lacey
-<details>
-	<summary>#### Session One (Starts in Act Two)</summary>
-<p>- Neighbor was murdered (throat slit)
+#### Session One (Starts in Act Two)
+- Neighbor was murdered (throat slit)
 - Different neighbor (Agnes) disappeared
 	- Thinks a door-to-door saleswoman selling double glazing killed her neighbors
 	- Agnes let the saleswoman in
