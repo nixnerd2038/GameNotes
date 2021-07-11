@@ -181,6 +181,7 @@ Annotation idea...
 ### Marianna
 #### Session One
 - Marianna seems overtly flirtatious, easily sexually excitable, films "other things", but not her blackouts
+- Wears an octopus necklace, seems unusual
 - [ ] Marianna feels I'm not listening**
 - Wakes up *naked* on the *beach*, *blacks out, slight retrograde amnesia*
     - Blackouts often postcede dancing
@@ -206,7 +207,17 @@ Annotation idea...
 - Hasn't been to the beach since last session
     - [ ] More about the beach? Why hasn't she been back?
 - Described me as "better behaved than Dr Dekker"
-    - [ ] Why better behaved? Odd description. 
+    - [x] Why better behaved? Odd description. Dr. Dekker dated his patients. 
+	- Dr Dekker dated an older patient named Scarlet
+- Marianna and Dr Dekker went out for drinks, ~~presumably on a date~~
+- Marianna said she "can be pretty persuasive when she wants to be" suggesting the drinks was her idea
+	- [x] How can she be persuasive? She "thinks [she's] pretty ugly, but she has a nice smile"
+- Wasn't a date, she just noticed Dr Dekker had been "off" and wanted to talk
+- She's seen something "truly beautiful. That makes [her] feel dull by comparison."
+	- [ ] What was it? A dream of something "beautiful in the sea...Let's wait a while before I tel you my *most intimate secrets*"*
+	- [ ] What intimate secrets? 
+- Was on the pier **Valentine's Night**, saw Elin and her date (Max) there almost all night
+
 
 ### Nathan
 #### Session One
@@ -251,6 +262,20 @@ Annotation idea...
     - [ ] Who are these people?
     - [ ] Why are they important?
 
+#### Session Two
+- Interrupted mine and Marianna's session to say a solicitor had called representing a patient named Ben who has complaints around his treatment
+- Opted to hire a solicitor to handle the situation
+- Jaya confided she spent a lot of time talking with Dr Dekker is experiencing some grief and numbness over his death
+	- Grief?
+	- Numbness?
+- Dr Dekker talked about patients with Jaya. Ethical breach, but could give me useful information
+	- Lacey?
+	- Jasmine?
+	- Bryce?
+	- Claire?
+	- Elin? 
+	- Marianna?
+	- Nathan?
 
 ## Murder Theories
 ### Bryce
