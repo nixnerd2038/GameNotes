@@ -180,7 +180,7 @@ Annotation idea...
 
 ### Marianna
 #### Session One
-- Marianna seems overtly flirtatious, easily sexually excitable, films "other things" 
+- Marianna seems overtly flirtatious, easily sexually excitable, films "other things", but not her blackouts
 - [ ] Marianna feels I'm not listening**
 - Wakes up *naked* on the *beach*, *blacks out, slight retrograde amnesia*
     - Blackouts often postcede dancing
