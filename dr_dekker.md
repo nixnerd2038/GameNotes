@@ -104,7 +104,29 @@ Annotation idea...
 
 #### Session Two
 - It's the anniversary of her parents' death today
-- They died at the Lakehouse 
+    - [x] When did they die? 12 years ago
+    - [x] How did they die? From CO poisoning, possibly from a faulty boiler
+    - [x] Was Claire involved? Not necessarily, she was at a friend's house. Seems suspicious, although she outright denies any involvement when pressed.   
+    - [x] Where did they die? They died at the Lakehouse 
+    - [x] Was she close to her parents? Yes, she "loved them very much. They were very good parents".
+- Back at the Lakehouse today she saw a girl, age nine or 10, fishing in the lake with a net on a dock. The girl was sad from seeing David's hunting trophies/skins.
+    - [x] Where was David? She doesn't know, she forgot her key, and the spare was missing, so she didn't check on him.
+    - [ ] She still hasn't found the **spare key** *
+    - The girl reminded Claire of herself because "she spent a lot of time alone as a child".
+    - The girl said she was trying to catch a strange creature she saw in the water
+    - Claire hasn't seen any strange creatures, retorted "[they were] minnows probably. Everything's strange when you're a child".
+    - The girl lives across the lake, and Claire hasn't seen her before
+    - 
+- David's skinning skills leave something to be desired. Claire described them as "[still having] lumps of bloody carcass hanging off them".
+- On **Valentine's Day** she had a morning (11am) appointment with Dr. Dekker
+    - During their session he "made [her] an offer she couldn't refuse", but she'll be "taking it to the grave".
+    - Dr Dekker was in a good mood, reports that he "seemed more animated that day. He talked a *lot*"
+    - Dr Dekker was more jovial and less sarcastic
+    - **Valentine's Night** she was watching David at the Lakehouse
+- David's "mental faculties are getting worse" and she wanted to ensure David was okay.
+- Does she love David? Even with the cheating? "Yes, I suppose I always will". Seems like a dishonest response if she stabbed him.
+- How did her and David meet? Young, he's a family-friend, part of her parent's (rich) circle
+- 
 
 ### Elin
 #### Session One
@@ -122,6 +144,35 @@ Annotation idea...
 	- [ ] *Hilda* is afraid Elin will "smother her in her sleep"
 - Has been seeing Dr Dekker for *nine months*
 - Likes Dr Dekker, wasn't "arrogant like most Doctors"
+
+#### Session Two
+- Elin "hasn't had a great day". 
+- Someone accused her of stealing from one of her patient's
+    - [x] What was she accused of stealing? The silver locket she's wearing. Says *Alice* (a patient) gave it to her before she died. 
+    - [x] *Alice*? Alice was one of her favorites, she "spoke her mind about everything" and "had a wicked sense of humour"
+    - [x] By whom? Teri, one of the other nurses, accused her of stealing the locket
+    - Teri accused her of being an "HSK" (healthcare serial killer) because "some of her patients have died, and a few of them gave her gifts".
+- *Hilda* is getting worse
+    - [x] What is Hilda's condition?
+    - [x] How is she getting worse? No specifics, Elin "can just tell" that she's close to dying
+    - Specified she needs to see her "before it's too late". 
+    - [x] Why her specifically? To help her finish her *unfinished business*.
+    - [x] What unfinished business? Hilda wants to see her daughter in Australia, so Elin is "going to have to use her *talent*."
+    - [x] What *talent* does Hilda have? She can "change her skin...[she can] turn into a pateint's loved one" if they hold her hand. 
+        - It's how she "help's them move on." 
+        - She doesn't think she actually changes it's "like an illusion or something...[her] energy changes."
+        - Has to be holding someone's hand for it to work
+    - [ ] Why does she want to help her if Hilda is "one of the crotchety ones, always swearing or spitting at [her]"?
+- What else has she been given? A watch, ring, china bird; "they're not valuable, just trinkets really."
+    - [ ] What do they look like? Seems like Masonic symbolism, maybe not intentional
+- Where was she on Valentine's Night?
+    - On a date
+    - How was it different? Traditional, old-fashioned. Went out to dinner, on a walk on the pier, then he sent her home in a cab, alone.
+    - Who is the "some guy she knows"? His name is Max, she doesn't see a future between them, he's not really her type
+    - Left the date around **11pm** in the cab
+- Had a session with Dr Dekker Valentine's Afternoon around 3pm
+- Said he seemed fine, like he was in a good mood, not like anything was bothering him
+- They talked about families, their Mum's
 
 
 ### Marianna
@@ -146,6 +197,13 @@ Annotation idea...
     - When asked if she's had anyone watch her prior and during a blackout suggested I do so
 - Doesn't know anything about Dr Dekker's murder
 - Says Dr Dekker could "really get inside [your head] it's very unsettling, but part of the process, I guess".
+
+#### Session Two
+- Hasn't had any blackouts since last session 
+- Hasn't been to the beach since last session
+    - [ ] More about the beach? Why hasn't she been back?
+- Described me as "better behaved than Dr Dekker"
+    - [ ] Why better behaved? Odd description. 
 
 ### Nathan
 #### Session One
