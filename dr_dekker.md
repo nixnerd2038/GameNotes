@@ -18,7 +18,6 @@ Annotation idea...
 	- Dr Dekker calls heer the Leech Lady because she "leeches thoughts from people's heads" and "can put them in there, too".
 	- On Valentine's night she was at a service at henley Church for single folk**
 	- Suggested she is unemployed vs. a double glazing saleswoman, she did not take kindly to this
-
 ### Jasmine
 #### Session One (Starts in Act Two)
 - Works at an art gallery called Providence
@@ -40,7 +39,6 @@ Annotation idea...
 - Ripped up the painting of Dorian prior to her burning down Providence
     - Says the painting of Dorian haunts her dreams, that "she can see him...hear him screaming". 
     - Dr Dekker prescribed her **Temazepam** to surpress her dreams and help her sleep
-
 ### Bryce
 #### Session One
 - Works as a **gravedigger**
@@ -60,7 +58,6 @@ Annotation idea...
 - Fan of chess, likes the *control* and planning
 - Says Dr Dekker was murdered, Dekker unraveled from *lack of control*
 - Knows no other info of Dekker's death
-
 #### Session Two
 - States he has been "getting a little out of control in [his extra] hour"**
     - [x] How has he been getting out of control? 
@@ -78,8 +75,8 @@ Annotation idea...
         - Claims it was Dr Dekker's fault he had this impulse
     	    - Why? How?    
 	- Claims Dr Dekker has "changed"
-            - Why? How? Dr Dekker seemed easily distracted during sessions like he "didn't care about his patients anymore" and that "dr dekker had given up on the desire to cure [his] mind and for whatever reason wanted to make [him] more unstable".
-            - Dr Dekker's advice changed; he told Bryce to "use his imagination to make something up. To think something crazy and it would become real. To think of a way to get more time[...]and it did. But he pushed me. He made me think it".
+    	- Why? How? Dr Dekker seemed easily distracted during sessions like he "didn't care about his patients anymore" and that "Dr Dekker had given up on the desire to cure [his] mind and for whatever reason wanted to make [him] more unstable".
+        - Dr Dekker's advice changed; he told Bryce to "use his imagination to make something up. To think something crazy and it would become real. To think of a way to get more time[...]and it did. But he pushed me. He made me think it".
     - Confided I may **steal** from people to see what his reponse would be
         - Bryce said he had stolen some milk from a corner store and "bigger things".
         - Also stole petrol, electricals, etc. to prove to himself he can, "to prove [his] extra hour is actually real". 
@@ -88,9 +85,8 @@ Annotation idea...
 - Carried Dr Dekker's casket, claims it wasn't heavy enough to have had a body in it
     - Coffin wasn't empty, thinks there was a decoy in it, maybe a mannequin? 
     - Claims Dr Dekker was either cremated or buried elsewhere because "someone or something didn't want him to be buried [in the ground]".
-- Claims to have seen strange things at the graveyard when asked if he's seen people come back from the dead, isn't sure if they'e real or if he just thinks they're real. 
+- Claims to have seen strange things at the graveyard when asked if he's seen people come back from the dead, isn't sure if they'e real or if he just thinks they're real. Didn't elaborate. 
 - Didn't stop seeing Dr Dekker out of a sense of hope
-
 ### Claire
 #### Session One
 - Diagnosed *violent paranoia*
@@ -104,7 +100,6 @@ Annotation idea...
         - [ ] Why? Just for cheating?**
     - David is sick, she has trouble coping with caring for him
     - [ ] David's health is declining, he is becoming less responsive, almost comatose, an *"Enigmatic husk"*
-
 #### Session Two
 - It's the anniversary of her parents' death today
     - [x] When did they die? 12 years ago
@@ -129,7 +124,6 @@ Annotation idea...
 - David's "mental faculties are getting worse" and she wanted to ensure David was okay.
 - Does she love David? Even with the cheating? "Yes, I suppose I always will". Seems like a dishonest response if she stabbed him.
 - How did her and David meet? Young, he's a family-friend, part of her parent's (rich) circle
-
 ### Elin
 #### Session One
 - Worried about work stress
@@ -175,8 +169,6 @@ Annotation idea...
 - Had a session with Dr Dekker Valentine's Afternoon around 3pm
 - Said he seemed fine, like he was in a good mood, not like anything was bothering him
 - They talked about families, their Mum's
-- 
-
 
 ### Marianna
 #### Session One
@@ -201,7 +193,6 @@ Annotation idea...
     - When asked if she's had anyone watch her prior and during a blackout suggested I do so
 - Doesn't know anything about Dr Dekker's murder
 - Says Dr Dekker could "really get inside [your head] it's very unsettling, but part of the process, I guess".
-
 #### Session Two
 - Hasn't had any blackouts since last session 
 - Hasn't been to the beach since last session
@@ -217,8 +208,6 @@ Annotation idea...
 	- [ ] What was it? A dream of something "beautiful in the sea...Let's wait a while before I tel you my *most intimate secrets*"*
 	- [ ] What intimate secrets? 
 - Was on the pier **Valentine's Night**, saw Elin and her date (Max) there almost all night
-
-
 ### Nathan
 #### Session One
 - Works as a **shop clerk**
@@ -229,7 +218,7 @@ Annotation idea...
 	    - [x] Why the harsh metaphor? Dr Dekker's murder seemed to cessate his feeling of living on repeat/in purgatory for two weeks
 	    - Claims he wouldn't commit murder because "you'd have to keep doing it"
 - Feels Dekker was conflicted, no two days were the same for him
-	- Why was dekker conflicted? "He had too many optinos like a kid in a sweet shop...I suppose if you take too much time picking all your options run away".
+	- Why was Dekker conflicted? "He had too many optinos like a kid in a sweet shop...I suppose if you take too much time picking all your options run away".
 - [x] Suffered a tragic event, was hit by a trolley, killed "Hannah"
 	- [x] Who's Hannah? His Fiance and Girlfriend since secondary school
 	- [x] Why does he feel it was his fault? Feelings about it were better until working with Dr Dekker, which gave him a sense of Deja Vue, recurring depression
@@ -244,7 +233,6 @@ Annotation idea...
         - Maybe ineffective placebo
         - Maybe needs repeat use to be effective
         - Maybe something else
-
 ### Jaya
 #### Session One
 - Who is Ben? One of the night shift cleaners
@@ -261,28 +249,72 @@ Annotation idea...
     - Not patients I've had yet
     - [ ] Who are these people?
     - [ ] Why are they important?
-
 #### Session Two
-- Interrupted mine and Marianna's session to say a solicitor had called representing a patient named Ben who has complaints around his treatment
-- Opted to hire a solicitor to handle the situation
+- Interrupted mine and Marianna's session to say a solicitor had called representing Ben who has complaints around his treatment as an employee
+	- Opted to hire a solicitor to handle the situation
+	- Ben's mum was cuddling him, apparently
 - Jaya confided she spent a lot of time talking with Dr Dekker is experiencing some grief and numbness over his death
 	- Grief?
 	- Numbness?
 - Dr Dekker talked about patients with Jaya. Ethical breach, but could give me useful information
-	- Lacey?
-	- Jasmine?
-	- Bryce?
-	- Claire?
-	- Elin? 
-	- Marianna?
-	- Nathan?
+	- Lacey? No answer
+	- Jasmine? No answer
+	- Bryce? Jaya feels he has a lot of "misdirected anger...he stares at me as if he's undressing me with eyes. He's not the first person that's done that, but it feels worse coming from him."
+		- Corroborates his mysoginistic view of women expressed by undressing and taking photos of his neighbor in his extra hour
+	- Claire? "Claire seems to be shaken by something I offer her drinks every time she comes in, but she always refuses them. [It's like] she wants to finish her session, then run off and do something else."
+		- Could be preoccupied about her husband, could be something else
+	- Elin? Described her as a "lovely person" and "not sure why she's here."
+	- Marianna? Says she's a "special girl[...]something about her just makes you want to follow her."
+	- Nathan? Describes him as "a mess...never talks to me much, and he's always in the same clothes." He reminds her of *Tom*.
+	- Tom? A quiet mess like Nathan, taught piano, had a "strange hobby".
+		- Strange hobby? Base jumping, but developed delusions that he could actually fly.
+		- Attempted to base jump without a parachute but died hitting a rock
+	- **Susan**? Not available
+	- **Annabelle**? Not available
+	- **Melissa**? Not available
+- Talking about Tom, Jaya wished she'd said goodbye, why? To Dr Dekker
+	- Dr Dekker had resigned, apparently, just before his death
+	- Jaya has his **resignation letter**
+	- Dr Alderby oversees hiring and firing? He's a trsutee and acts as a patienbt to test new doctors
+- Jaya oversees the practice as a sort of manager, headhunted myself and Dr Dekker, recommended them to the board of trustees
+- Jaya and Dr Dekker had late night conversations often
+	- He seemed preoccupied with finding patterns in patients
+	- What kind of patterns? Common experiences patients may have had, patients seemed similar, maybe drawn to him
+- Claire and Elin had appointments on **Valentine's** and 11am and 3pm respectively
+- Dr Dekker did phone and ask for Nathan's number, which seemed "a bit strange" 
 
-## Murder Theories
-### Bryce
-### Claire
-### Elin
-### Mariana
-### Nathan
-### Jaya
+## Murder Theories and Evidence
 ### Lacey
+- No evidence yet
 ### Jasmine
+- No evidence yet
+### Bryce
+- Spent his **Valentine's Night** at the **art gallery** (Providence) as hinted at by Jasmine
+- Could have ample time to murder Dr Dekker using his extra hour, however, that would fit outside anyone else's perception
+- Denies having committed any murders, but has loose morals given his theft and voyeurism
+- Doesn't hold much ill will towards Dr Dekker, maybe slight resentment in the way he described Dekker "making him think certain things" but "didn't stop seeing Dr Dekker out of a sense of hope"
+### Claire
+- Does have the ability given she's stabbed her husband, suffers from violent, paranoid delusions
+- Doesn't seem to have motive or propensity, however, except that during their session he "made [her] an offer she couldn't refuse", but she'll be "taking it to the grave".
+	- So could've been an assisted suicide instead of murder, which may explain Dr Dekker's change in personality as suicidal individuals often express peace and joviality once they've decided to end it for good
+	- Alibi of watching David that night can't exactly be corroborated by anyone else
+### Elin
+- No real supporting evidence yet of her as the murder, unless the theory of her killing patients develops
+- Maybe her using her gift (changing into patients' loved ones) hastens their death? Although she doesn't/wouldn't seem to know that directly
+### Mariana
+- No supporting evidence for her as a suspect yet
+- Was on the pier **Valentine's Night**, saw Elin and her date (Max) there almost all night
+### Nathan
+- "For real change you need tragedy...like a murder"
+	- [x] Why the harsh metaphor? Dr Dekker's murder seemed to cessate his feeling of living on repeat/in purgatory for two weeks
+	- Claims he wouldn't commit murder because "you'd have to keep doing it"
+- His belief that Dekker's murder got him out of his loop days seems to suggest he may have had other catalytic events that broke his loop days for shorter periods, leading him to commit murder to lengthen his break from them
+- Dr Dekker had phoned Jaya for Nathan's number the day he was murdered. Odd. 
+### Jaya
+- No evidence yet
+
+## Evidence and Exegesis
+### Alderby Session Videos
+- 
+### Dekker's Resignation Letter
+### Reference Letters
