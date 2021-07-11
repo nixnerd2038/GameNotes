@@ -5,8 +5,9 @@ Annotation idea...
 (I'll remove ** or * when done)
 ## Patient Notes
 ### Lacey
-#### Session One (Starts in Act Two)
-- Neighbor was murdered (throat slit)
+<details>
+	<summary>#### Session One (Starts in Act Two)</summary>
+<p>- Neighbor was murdered (throat slit)
 - Different neighbor (Agnes) disappeared
 	- Thinks a door-to-door saleswoman selling double glazing killed her neighbors
 	- Agnes let the saleswoman in
@@ -18,6 +19,7 @@ Annotation idea...
 	- Dr Dekker calls heer the Leech Lady because she "leeches thoughts from people's heads" and "can put them in there, too".
 	- On Valentine's night she was at a service at henley Church for single folk**
 	- Suggested she is unemployed vs. a double glazing saleswoman, she did not take kindly to this
+- - - -
 ### Jasmine
 #### Session One (Starts in Act Two)
 - Works at an art gallery called Providence
@@ -38,7 +40,8 @@ Annotation idea...
     	- Jasmine said that Petra was losing money on the business, wanted to collect insurance money from Jasmine burning it down, maybe? Jasmine denies this, but Petra could have used it as an excusative event regardless
 - Ripped up the painting of Dorian prior to her burning down Providence
     - Says the painting of Dorian haunts her dreams, that "she can see him...hear him screaming". 
-    - Dr Dekker prescribed her **Temazepam** to surpress her dreams and help her sleep
+	- Dr Dekker prescribed her **Temazepam** to surpress her dreams and help her sleep</p>
+- - - -
 ### Bryce
 #### Session One
 - Works as a **gravedigger**
@@ -124,6 +127,7 @@ Annotation idea...
 - David's "mental faculties are getting worse" and she wanted to ensure David was okay.
 - Does she love David? Even with the cheating? "Yes, I suppose I always will". Seems like a dishonest response if she stabbed him.
 - How did her and David meet? Young, he's a family-friend, part of her parent's (rich) circle
+- - - -
 ### Elin
 #### Session One
 - Worried about work stress
@@ -140,7 +144,6 @@ Annotation idea...
 	- [ ] *Hilda* is afraid Elin will "smother her in her sleep"
 - Has been seeing Dr Dekker for *nine months*
 - Likes Dr Dekker, wasn't "arrogant like most Doctors"
-
 #### Session Two
 - Elin "hasn't had a great day". 
 - Someone accused her of stealing from one of her patient's
@@ -169,7 +172,7 @@ Annotation idea...
 - Had a session with Dr Dekker Valentine's Afternoon around 3pm
 - Said he seemed fine, like he was in a good mood, not like anything was bothering him
 - They talked about families, their Mum's
-
+- - - -
 ### Marianna
 #### Session One
 - Marianna seems overtly flirtatious, easily sexually excitable, films "other things", but not her blackouts
@@ -233,6 +236,7 @@ Annotation idea...
         - Maybe ineffective placebo
         - Maybe needs repeat use to be effective
         - Maybe something else
+- - - -
 ### Jaya
 #### Session One
 - Who is Ben? One of the night shift cleaners
