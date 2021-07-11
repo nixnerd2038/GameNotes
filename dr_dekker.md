@@ -285,7 +285,15 @@ Annotation idea...
 	- What kind of patterns? Common experiences patients may have had, patients seemed similar, maybe drawn to him
 - Claire and Elin had appointments on **Valentine's** and 11am and 3pm respectively
 - Dr Dekker did phone and ask for Nathan's number, which seemed "a bit strange" 
-
+---
+---
+## Evidence and Exegesis
+### Alderby Session Videos
+- 
+### Dekker's Resignation Letter
+### Reference Letters
+---
+---
 ## Murder Theories and Evidence
 ### Lacey
 - No evidence yet
@@ -316,8 +324,3 @@ Annotation idea...
 ### Jaya
 - No evidence yet
 
-## Evidence and Exegesis
-### Alderby Session Videos
-- 
-### Dekker's Resignation Letter
-### Reference Letters
