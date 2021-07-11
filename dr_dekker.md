@@ -107,6 +107,7 @@ Annotation idea...
 - They died at the Lakehouse 
 
 ### Elin
+#### Session One
 - Worried about work stress
 - Works as nurse in home for the elderly/end-of-life care
 - She's "married to [her] work"
@@ -124,6 +125,7 @@ Annotation idea...
 
 
 ### Marianna
+#### Session One
 - Marianna seems overtly flirtatious, easily sexually excitable, films "other things" 
 - [ ] Marianna feels I'm not listening**
 - Wakes up *naked* on the *beach*, *blacks out, slight retrograde amnesia*
@@ -146,6 +148,7 @@ Annotation idea...
 - Says Dr Dekker could "really get inside [your head] it's very unsettling, but part of the process, I guess".
 
 ### Nathan
+#### Session One
 - Works as a **shop clerk**
 - Feels as if he's in purgatory, "stuck between this day and the next"
 - Feels life rarely changes except small things like weather, occassional responses like lack of a nod/acknowledgement
@@ -161,6 +164,8 @@ Annotation idea...
 - Describes his days as "a blur...not sure if it's from the sleeping tablets or how [he's] learned to *'switch off'*"*
 	- [x] What does switch off mean? How? Suffers from depression, fatigue, and malaise
 	- [x] Sleeping Pills? prescribed by Dr Dekker b/c he thought he'd "sleep through to a whole new day"
+
+#### Loop Days
 - [ ] Dekker gave him a pill (*Temazepam*) to prevent his loops with a skull and crossbones on it**
     - Told him to take the pill, thinking it was a placebo
     - [ ] Had another "loop day" the day after taking the pill
@@ -169,6 +174,7 @@ Annotation idea...
         - Maybe something else
 
 ### Jaya
+#### Session One
 - Who is Ben? One of the night shift cleaners
 - Finding the body? 
 	- [x] How? Ben found the body in his/my office on Valentine's Night*
