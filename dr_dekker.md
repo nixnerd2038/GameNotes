@@ -66,6 +66,8 @@ Annotation idea...
         - He said he found a woman (Jessica) in his extra hour he found attractive, so he undressed her and took nude photos of her
         - Bryce said he had stolen some milk from a corner store and "bigger things".
         - Also stole petrol, electricals, etc. to prove to himself he can, "to prove [his] extra hour is actually real". 
+        - Also like to move things around to make them appear to be floating in mid-air
+        	- Would often unsetle people or cause panic (this creates Chaos)
         - Denies any murders
 - States he took a while to figure out that time was frozen because "he lives on [his] own".
     - Lives alone, occassionally visits his father who lives alone in sheltered housing with dementia
@@ -89,6 +91,35 @@ Annotation idea...
     - Claims Dr Dekker was either cremated or buried elsewhere because "someone or something didn't want him to be buried [in the ground]".
 - Claims to have seen strange things at the graveyard when asked if he's seen people come back from the dead, isn't sure if they'e real or if he just thinks they're real. Didn't elaborate. 
 - Didn't stop seeing Dr Dekker out of a sense of hope
+#### Session Three
+- A "**hooded figure**" has joined his extra hour "watching [him] and following [him]. [He] followed it too."
+	- Thinks the Hooded Figure could have been me, the Military, or Dr. Dekker "risen from the dead."
+	- Told him I don't have an extra hour, so it can't be me
+	- Is surprised he hasn't been approached by the military to give information about the extra hour because they could use it for Ops
+	- Asked me to tell Jessica he loves her, and destroy a hard drive on the bottom of his drinks cabinet, and to not look at it
+		- [x] What's on the hard drive? Pictures of Jessica and other women
+	- Bryce followed the Hooded Figure and it lead him past temptations, like it's testing him, but doesn't know why or what for:
+		- A bar brawl? He split the brawl up
+		- An open till? Didn't steal from the till, he "isn't stealing anymore"
+		- An open bedroom window? He feels watching others' is built into our genes. He looked in and found an old woman asleep in bed, the bed had caught fire, so he took the bedding at put it out in the bath. He didn't take any pictures. 
+- He spied on Dr. Dekker not long before he was murdered because of the change in his personality. He saw something in his basement.
+	- Iris? Probably, he saw a girl chained up.
+	- He removed the chains and put her in a police station
+	- Uses this event to justify that he's "not evil, [he] destroys evil."
+- He did bury **David, Claire's husband**
+	- Remarked the coffin was very heavy, that "[David] must have been a giant."
+	- Remarked that Claire seemed agitated
+	- Is sure that David was buried, he saw David in the coffin himself before carrying him to the grave
+- Bryce says that Dr. Dekker used the paper spike he was killed with as an example. 
+	- Bryce said that "If I believe it's sharp it will hurt me, but if I believe it's nothing it would pass right through my hand."
+	- Bryce stabbed himself in the hand with a nail at work, believed it would heal instantly "like a worm wriggling through [his] hand..." , and it did.
+		- The nail became an actual worm that was "[...]wriggling in his palm. It was like magic."
+- Bryce asked me if magic was real
+	- I responded that I thought it was, he told me to "close your eyes, imagine you're in a graveyard. Looking at the gravestones. One catches your eye, so you take a picture of it. It's now in your hand." **Evidence added for Gravestone Picture** 
+- He hasn't seen Jessica again, but seems obsessed with her. I suggested he speak with Jessica. 
+- He thinks Dr. Dekker is a truly evil man, partially implies that he wanted him dead, and that "if [he] were to kill him, he'd do it in the Midnight hour. And when was Dr. Dekker murdered?"
+	- But he was murdered between 8:30 and 10:30pm, and reported at 10:20pm 
+- Described my aura as "interesting...like I'm more than one person."
 ### Claire
 #### Session One
 - Diagnosed *violent paranoia*
@@ -99,9 +130,10 @@ Annotation idea...
 - **Husband David** estranged
     - Cheated on her with assistant Optometrist
     - *Stabbed David* with a steak knife
-        - [ ] Why? Just for cheating?**
+        - [x] Why? Just for cheating?** Kind of, he wanted to run off with Iris; they'd been together in secret for over a year (revealed Act Three)
     - David is sick, she has trouble coping with caring for him
-    - [ ] David's health is declining, he is becoming less responsive, almost comatose, an *"Enigmatic husk"*
+    - [x] David's health is declining, he is becoming less responsive, almost comatose, an *"Enigmatic husk"*
+    	- David isn't fully David, Claire believes his brain is damaged from the week delay between his death and reanimation/resurrection (revealed Act Three)
 #### Session Two
 - It's the anniversary of her parents' death today
     - [x] When did they die? 12 years ago
@@ -111,12 +143,11 @@ Annotation idea...
     - [x] Was she close to her parents? Yes, she "loved them very much. They were very good parents".
 - Back at the Lakehouse today she saw a girl, age nine or 10, fishing in the lake with a net on a dock. The girl was sad from seeing David's hunting trophies/skins.
     - [x] Where was David? She doesn't know, she forgot her key, and the spare was missing, so she didn't check on him.
-    - [ ] She still hasn't found the **spare key** *
+    - [x] She still hasn't found the **spare key** She found her spare key in a drawer in the hallway, but she "could've sworn she looked there already."
     - The girl reminded Claire of herself because "she spent a lot of time alone as a child".
     - The girl said she was trying to catch a strange creature she saw in the water
     - Claire hasn't seen any strange creatures, retorted "[they were] minnows probably. Everything's strange when you're a child".
     - The girl lives across the lake, and Claire hasn't seen her before
-    - 
 - David's skinning skills leave something to be desired. Claire described them as "[still having] lumps of bloody carcass hanging off them".
 - On **Valentine's Day** she had a morning (11am) appointment with Dr. Dekker
     - During their session he "made [her] an offer she couldn't refuse", but she'll be "taking it to the grave".
@@ -124,8 +155,66 @@ Annotation idea...
     - Dr Dekker was more jovial and less sarcastic
     - **Valentine's Night** she was watching David at the Lakehouse
 - David's "mental faculties are getting worse" and she wanted to ensure David was okay.
-- Does she love David? Even with the cheating? "Yes, I suppose I always will". Seems like a dishonest response if she stabbed him.
+- Does she love David? Even with the cheating? "Yes, I suppose I always will". Seems like a dishonest response if she stabbed him. Her character seems to imply more of a sense of ownership than meotional fealty
 - How did her and David meet? Young, he's a family-friend, part of her parent's (rich) circle
+#### Session Three
+- Started Act Three with an arrest report provided by Jaya from her stabbing (Murder?) David
+	- Previous discussions imply David is alive (she spent Valentine's Day/Night with him), her arrest reports show he had no life signs at the time police arrived
+	- Dated 9 November (no year, but assuming 2016)
+	- Presuming current date to be somewhere around the beginning or middle of March 2017, with Dr Dekker's murder having happened on 14 Feb. 2017
+	- [x] Is the David she spends her evenings with at the Lakehouse a delusion from guilt?** No he was resurrected by Claire willing it so about a week after death
+	- [x] Or is the police report wrong/jumping to conclusions? Probably not, she indicated the police and coroner reports say David is dead, and that there was a funeral for him
+	- [x] Or did David get revived/brought back to life by some "God"? No he was resurrected by Claire willing it so about a week after death
+- She's been spending her time at the Lakehouse with David
+- She saw the little girl again playing outside
+	- What was the Little Girl doing? She'd caught a fish
+	- Did she talk to the Little Girl? No, she watched her from the bedroom window
+	- The fish the Little Girl caught bit her
+- Asked her about the police report
+	- She says "the police say David is dead...the coroner says David is dead...There was even a funeral. But I know he's alive."
+	- She detailed again that she stabbed him with a steak knife, but instantly regretted it, so she "fixed him."
+		- How did she *fix him*? She brought him back to life. She "just willed it, and it happnened". 
+		- Dr Dekker told her "that it was possible [to be brought back to life] so long as you weren't buried".
+		- Bringing David back to life wasn't what she expected, describes it closer to reanimation
+		- Theorizes that his brain had started to decay during his week reposed and that resurrecting him didn't repair any damage
+		- Describes his behavior as "[him] hunting and killing things, but he's your basic neanderthal."
+		- She "has a problem"? 
+	- What about the funeral?
+		- He was buried at Henley Church
+		- Mentions ~~a patient~~ Bryce was a pallbearer ~~(presumably Bryce since he works at the graveyard and was a pallbearer for Dr Dekker)~~
+		- Claire confirmed Bryce was the pallbearer
+		- She paid him (presumably) to smuggle the body out
+- She's still being charged with murder, but David is still *technically* alive
+	- Having David give proof that he is alive isn't really plausible given his neanderthal-like state, not to mention the host of legal issues surrounding smuggling a body out of a morgue
+	- Wants me to help
+		- How? She wants me to declare her temporarily insane at the time of the murder to lessen her sentence
+		- Given her past history of diagnosis with paranoid delusions, and the mental and emotional weight of finding out her marriage is a sham, this seems feasible
+		- Realistically, I would recommend involuntary commital to a state mental hospital
+		- I did agree to declare her temporarily insane
+		- Dr Dekker would not declare her temporarily insane he "wanted something else."
+	- Does fully believe that this isn't a delusion, that she did in fact bring David back to life
+	- Quips that "If David doesn't exist[...]then I should really be going to prison for a very long time[...]it seems more probable to me that I reanimated him under Dr. Dekker's guidance."
+- Dr Dekker would not declare her insane without proof of her ability as some sort of twisted bargain
+	- Dr Dekker teased her about her ability and asked her to raise a dead mouse from the dead
+	- Claire found this to be a palrty use of her gifts as well as insulting
+	- Dr Dekker eventually changed his mind
+		- How had he "changed his mind? Claire took Dr. Dekker to see David at the Lakehouse
+		- When Dr. Dekker saw David he "wanted to examine him[...]but Dr. Dekker seemed very distant after that."
+	- [x] Dr Dekker "mentioned the girl"? He also solicited Claire to raise "a girl he had locked up in his basement[...]It was Iris[...]" from the dead.
+		- Claire played along hoping it wasn't real, and because this was a condition for Dr. Dekker to give her a temporary insanity diagnosis
+		- Dr. Dekker called Claire from his house and furiously informed Claire that Iris had escaped. He accused Claire of letting Iris out, which she denies.	
+- As part of explaining how Dr. Dekker changed his mind about her abilities, she offered to let me see David as well, to which I gleefully **agreed**. She'll take me to him during our next session.
+- She found her **spare key** in a drawer in the hallway, but she "could've sworn she looked there already."
+- When I told her that Iris was released by Bryce she seemed happy, and says she should have taken Dekker more seriously
+	- Wants to speak with Iris
+	- She admits there's something "sweet about Dr. Dekker getting her revenge by killing Iris, but I'm not wicked."
+	- 
+- Told her Bryce said David was in the ground, but she brushed it off saying "of course he'd say that."
+- Asked if David could've actually survived, she responded "Perhaps...perhaps he survived with no food, or water for a week. Perhaps he survived an autopsy."
+	- So I'll take that as a "no", eh?
+- Said she'd bring in a picture of David post-ressurrection as proof
+- The Father and Daughter living across the lake have seen him
+- David is fully intact, but mentally intact. Not a zombie.
 - - - -
 ### Elin
 #### Session One
@@ -199,6 +288,8 @@ Annotation idea...
 - Hasn't had any blackouts since last session 
 - Hasn't been to the beach since last session
     - [ ] More about the beach? Why hasn't she been back?
+- Wants to be cured of her blackouts, wants me to fix her
+- Asked if I wanted to date her, I said no
 - Described me as "better behaved than Dr Dekker"
     - [x] Why better behaved? Odd description. Dr. Dekker dated his patients. 
 	- Dr Dekker dated an older patient named Scarlet
@@ -227,7 +318,6 @@ Annotation idea...
 - Describes his days as "a blur...not sure if it's from the sleeping tablets or how [he's] learned to *'switch off'*"*
 	- [x] What does switch off mean? How? Suffers from depression, fatigue, and malaise
 	- [x] Sleeping Pills? prescribed by Dr Dekker b/c he thought he'd "sleep through to a whole new day"
-
 #### Loop Days
 - [ ] Dekker gave him a pill (*Temazepam*) to prevent his loops with a skull and crossbones on it**
     - Told him to take the pill, thinking it was a placebo
@@ -235,6 +325,42 @@ Annotation idea...
         - Maybe ineffective placebo
         - Maybe needs repeat use to be effective
         - Maybe something else
+#### Session Two
+- **REMIMDER**: Dr Dekker did phone and ask for Nathan's number, which seemed "a bit strange" according to Jaya
+- Burned Hannah's clothes and time "moved forward a day."
+- Wants advice on whether to set fire to Hannah's *photos* or *rocking chair*
+	- Says he has copies of the photos on Dropbox
+	- The chair was something she loved
+	- [ ] Suggested he set fire to the rocking chair ** **inquire next session**
+- Asked whether he likes fire, responded that fire is "a very primal form of energy. Maybe if [he] burned something his days will keep rolling."
+- He asked what my favourite season is
+	- I replied that it was Autumn
+	- Nathan's is Winter
+- Dr Dekker felt he was holding onto the past/holding onto the memories of Hannah
+- Feels Dr Dekker "cursed him"
+	- How? Wouldn't elaborate, just said "Dr Dekker made me the way I am."
+- Spent **Valentine's Day** at **Henley Church**, left around 11(AM presumably)
+	- It was the anniversary of Hannah's death
+	- Her funeral was large affair that her parents pushed for, but Hannah wouldn't have liked
+	- Nathan wrote her epitaph (We Walk Alone without Our Angel)
+		- He's been alone since Hannah
+		- Inquired whether he should look for someone else. Responded "No, it would be healthy to wait until you're ready."
+		- The Angel reference was both because "Hannah was like an angel to me. She was an angel to everyone.", and because "her parent's would want some acknowledgement of the Great Bearded One" even though he isn't religious
+	- Spoke to an archeologist who'd found fossils of a cephalopod-like creature
+	- Got defensive and added "What? Do you think I've got something to do with Dr. Dekker's murder? Perhaps you should ask your assistant, who Dr Dekker saw that day."
+- He did get a call from Dr. Dekker
+	- Dr. Dekker inquired about hypnosis
+		- Dr. Dekker and Nathan had used hypnosis in previous sessions
+	- He doesn't remember specifics, but "it must have been good though, that was one of the times I slept through to the next day."
+		- [ ] Did Dr. Dekker hypnotize him during the phone conversation?
+		- [ ] How does this relate to his theory that "[f]or real change you need tragedy...like a murder"
+- His mother passed away when he was six, she "just stopped breathing."
+- Hannah donated her clothes to a charity suggested by Dr. Dekker called "Mindstretch Outreach."
+	- [x] Owned by Dr Dekker? Yes
+	- Arranges programs for gifted children, "poor gifted kids"
+	- Nathan thinks he started the program to influence kids' minds so he could have "minions"
+	- Nathan says it felt like he's growing a "child army of intelligentsia"
+- Hannah and Dr Dekker never met
 - - - -
 ### Jaya
 #### Session One
@@ -280,18 +406,59 @@ Annotation idea...
 	- Jaya has his **resignation letter**
 	- Dr Alderby oversees hiring and firing? He's a trsutee and acts as a patienbt to test new doctors
 - Jaya oversees the practice as a sort of manager, headhunted myself and Dr Dekker, recommended them to the board of trustees
+	- Has recommended the last five doctors
+	- She says we seemed extraordinary? How/why? Both top of our class at Cambridge and "slaves to her every whim. That last ome's more of a hope than a must-have." 
+		- Seems she tried to play off the slave comment as a joke, seemed more serious, however.
 - Jaya and Dr Dekker had late night conversations often
 	- He seemed preoccupied with finding patterns in patients
 	- What kind of patterns? Common experiences patients may have had, patients seemed similar, maybe drawn to him
 - Claire and Elin had appointments on **Valentine's** and 11am and 3pm respectively
 - Dr Dekker did phone and ask for Nathan's number, which seemed "a bit strange" 
+- Jaya confirms Dr Dekker's glass was smashed after Alderby "turned off gravity."
+- How does she feel about Alderby? 
+	- Doesn't agree that chaos should be sown
+	- Merely stated that "everyone has to believe in something" when asked about Alderby's stance on God
+- Jaya confirms Elin was picked up just after 11pm by a cab, and that "there was no way she could have gotten from there to her in an hour." 
+#### Act Three Intro
+- Has a friend on the police force
+- Gave me a crime report her friend acquired
 ---
 ---
 ## Evidence and Exegesis
-### Alderby Session Videos
-- 
+### Alderby Session Video
+- The faculty thinks he's gone "loopy like a spongry mobius strip."
+- Goes into a tangent about "Him. God. The Great Old One. The Elder God. Cthulhu."
+	- "He creates this world for His amusement."
+	- "God loves chaos, but something goes wrong. Men and women evolve. What was once chaotic becomes more ordered."
+	- "When things become less chaotic [Cthulhu] becomes impotent."
+	- "He needs Chaos so he can return, and the only thing stopping him is you. Not just you, people like you. Psychiatrists, doctors, nurses. Anyone who is caring for people losing their sanity."
+	- "Thery're not all cultists unfortunately. Once you see the truth it's hard not to spread chaos yourself. To cause more insanity..."
+	- "The central component of our Universe is chaos...science cna only document a perception of the chaos at any one given moment in time[...]At any given moment we can alter our perception of the world, no matter how much chaos that would cause."
+	- "In ten seconds time there will be no gravity in this room...three, two, one...[film goes grainy and stutters] You think nothing happened, don't you? But where's your glass, Doctor? [sound of glass breaking, clip ends]
 ### Dekker's Resignation Letter
+- Please accept this letter as notice of my intention to resign from my position.
+- Dated February 11th
 ### Reference Letters
+### Claire's Arrest Report
+- Dated 9th Nov. [NO YEAR, presuming 2016]
+- Detailing events from 8th Nov. [NO YEAR, presuming 2016]  
+- Arrest report detailing her stabbing off **David**
+- David was unconscious and Claire was seated on the floor next to him
+- Large amounts of blood on both parties, walls, furniture and carpet
+- **Police found no signs of life in David**
+- Claire was arrested under suspicion of murder
+- Transported to Wheston Park Police Station
+- No other persons found in the house
+### Crime Report detailing Dr Dekker's Murder
+- Dated 14 Feb. 2017
+- Found in his office seated on a chairbehind the desk, soaked in blood with an obvious chest wound
+- Possible murder weapon(s): Paper spike protruding from Dr. Dekker's heart
+- Time of Death: Between 8:30 and 10:30pm on 14 Feb. 2017
+- Body reported: 10:20pm on 14 Feb. 2017
+### Gravestone Photograph
+DR DEKKER
+1875 - (NO DEATH DATE )
+
 ---
 ---
 ## Murder Theories and Evidence
@@ -303,7 +470,9 @@ Annotation idea...
 - Spent his **Valentine's Night** at the **art gallery** (Providence) as hinted at by Jasmine
 - Could have ample time to murder Dr Dekker using his extra hour, however, that would fit outside anyone else's perception
 - Denies having committed any murders, but has loose morals given his theft and voyeurism
-- Doesn't hold much ill will towards Dr Dekker, maybe slight resentment in the way he described Dekker "making him think certain things" but "didn't stop seeing Dr Dekker out of a sense of hope"
+- ~~Doesn't seem to hold much ill will towards Dr Dekker, maybe slight resentment in the way he described Dekker "making him think certain things" but "didn't stop seeing Dr Dekker out of a sense of hope"~~
+- He thinks Dr. Dekker is a truly evil man, partially implies that he wanted him dead, and that "if [he] were to kill him, he'd do it in the Midnight hour. And when was Dr. Dekker murdered?"
+	- But he was murdered between 8:30 and 10:30pm, and reported at 10:20pm 
 ### Claire
 - Does have the ability given she's stabbed her husband, suffers from violent, paranoid delusions
 - Doesn't seem to have motive or propensity, however, except that during their session he "made [her] an offer she couldn't refuse", but she'll be "taking it to the grave".
@@ -311,6 +480,7 @@ Annotation idea...
 	- Alibi of watching David that night can't exactly be corroborated by anyone else
 ### Elin
 - No real supporting evidence yet of her as the murder, unless the theory of her killing patients develops
+- Jaya confirms Elin was picked up just after 11pm by a cab, and that "there was no way she could have gotten from there to here in an hour."
 - Maybe her using her gift (changing into patients' loved ones) hastens their death? Although she doesn't/wouldn't seem to know that directly
 ### Mariana
 - No supporting evidence for her as a suspect yet
@@ -321,6 +491,18 @@ Annotation idea...
 	- Claims he wouldn't commit murder because "you'd have to keep doing it"
 - His belief that Dekker's murder got him out of his loop days seems to suggest he may have had other catalytic events that broke his loop days for shorter periods, leading him to commit murder to lengthen his break from them
 - Dr Dekker had phoned Jaya for Nathan's number the day he was murdered. Odd. 
+- He did get a call from Dr. Dekker
+	- Dr. Dekker inquired about hypnosis
+	- He doesn't remember specifics, but "it must have been good though, that was one of the times I slept through to the next day."
+		- [ ] Did Dr. Dekker hypnotize him during the phone conversation?
+		- [ ] **Did Dr. Dekker purposefully cause his own murder to sow more Chaos, as Psychiatrists are agents of Order (proposed by Alderby in his session tape), by hypnotizing Nathan to kill him?**
+		- [ ] How does this relate to his theory that "[f]or real change you need tragedy...like a murder"
 ### Jaya
 - No evidence yet
-
+### Dr Dekker
+- Evidence supporting Dr. Dekker played a part in his own "murder" is starting to appear in Act Three in Claire's session linking back to ACt One
+	- Claire states that Dr Dekker believed it was possible to be brought back to life so long as you weren't buried (this is how she willed David back to life)
+	- Bryce, in Act One, says that when he carried Dr Dekker's casket he felt there was no body or a decoy in it
+	- [ ] Could Dr. Dekker have had himself killed so he could ascend to chaos himselef? 
+	- [ ] Or ressurect himself for some reason? 
+	- Being murdered by another person, theoretically, sows more chaos than suicide as it affects two individuals instead of one  
